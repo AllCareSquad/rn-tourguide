@@ -3,6 +3,8 @@
   "version": "3.3.0",
   "description": "Make an interactive step by step tour guide for your react-native app (a rewrite of react-native-copilot)",
   "main": "node_modules/expo/AppEntry.js",
+  "react-native": "src/index.ts",
+  "source": "src/index.ts",
   "types": "lib/index.d.ts",
   "private": false,
   "scripts": {
